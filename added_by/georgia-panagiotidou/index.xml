@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Georgia Panagiotidou on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/georgia-panagiotidou/</link>
+		<description>Recent content in Georgia Panagiotidou </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/georgia-panagiotidou)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 07 Nov 2021 10:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/georgia-panagiotidou/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -3,21 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dataphys.org/list/categories/active-physical-visualization/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/added_by/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/ambient-visualization/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/badge/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/categories/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/data-badges/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/entries/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/tags/haptic-auditory/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
+    <loc>http://dataphys.org/list/added_by/georgia-panagiotidou/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/added_by/kim-sauv%C3%A9/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/loop/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/categories/passive-physical-visualization/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/self-tracking/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/shape-changing-interface/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/situated/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/</loc>
+    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/haptic-auditory/</loc>
     <lastmod>2021-10-05T12:00:03+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/nonvisual/</loc>
@@ -29,13 +62,10 @@
     <loc>http://dataphys.org/list/solar-radiation-dowsing-rod/</loc>
     <lastmod>2021-10-05T12:00:03+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/tags/</loc>
-    <lastmod>2021-10-05T12:00:03+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/added_by/vinicius-sueiro/</loc>
     <lastmod>2021-10-05T12:00:03+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/tags/age-pyramids/</loc>
+    <loc>http://dataphys.org/list/tags/age-pyramid/</loc>
     <lastmod>2021-09-28T12:37:25+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/data-sculpture/</loc>
@@ -45,9 +75,6 @@
     <lastmod>2021-09-28T12:37:25+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/sent_by/loren-madsen/</loc>
-    <lastmod>2021-09-28T12:37:25+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/categories/passive-physical-visualization/</loc>
     <lastmod>2021-09-28T12:37:25+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/sent_by/</loc>
@@ -308,9 +335,6 @@
     <loc>http://dataphys.org/list/econundrum/</loc>
     <lastmod>2020-10-06T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/added_by/kim-sauv%C3%A9/</loc>
-    <lastmod>2020-10-06T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/tags/rain/</loc>
     <lastmod>2020-10-06T10:00:00+00:00</lastmod>
   </url><url>
@@ -426,9 +450,6 @@
     <lastmod>2020-05-19T11:14:30+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/sexual-harassment/</loc>
-    <lastmod>2020-05-19T11:14:30+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/situated/</loc>
     <lastmod>2020-05-19T11:14:30+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/100-city/</loc>
@@ -1291,9 +1312,6 @@
   </url><url>
     <loc>http://dataphys.org/list/tags/unemployment/</loc>
     <lastmod>2017-05-24T19:51:50+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/age-pyramid/</loc>
-    <lastmod>2017-05-23T10:59:39+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/brexit/</loc>
     <lastmod>2017-05-23T10:59:39+00:00</lastmod>
@@ -2734,9 +2752,6 @@
   </url><url>
     <loc>http://dataphys.org/list/tags/punch-cards/</loc>
     <lastmod>2014-11-05T22:05:56+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/ambient-visualization/</loc>
-    <lastmod>2014-11-05T20:57:50+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/open-source/</loc>
     <lastmod>2014-11-05T20:57:50+00:00</lastmod>
