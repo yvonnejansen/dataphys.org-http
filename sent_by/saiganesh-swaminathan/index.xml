@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Saiganesh Swaminathan on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/saiganesh-swaminathan/</link>
+		<description>Recent content in Saiganesh Swaminathan </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/saiganesh-swaminathan)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 01 Nov 2014 16:28:55 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/saiganesh-swaminathan/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

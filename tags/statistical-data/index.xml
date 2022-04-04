@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>statistical data on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/statistical-data/</link>
+		<description>Recent content in statistical data </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/statistical-data)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 04 Jul 2013 16:44:32 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/statistical-data/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

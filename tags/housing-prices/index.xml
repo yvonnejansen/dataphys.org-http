@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>housing prices on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/housing-prices/</link>
+		<description>Recent content in housing prices </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/housing-prices)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 19 Aug 2016 00:26:30 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/housing-prices/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

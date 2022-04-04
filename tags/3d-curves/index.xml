@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>3d curves on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/3d-curves/</link>
+		<description>Recent content in 3d curves </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/3d-curves)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 01 Nov 2014 18:12:58 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/3d-curves/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

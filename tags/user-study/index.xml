@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>user study on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/user-study/</link>
+		<description>Recent content in user study </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/user-study)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 20 Dec 2012 12:53:02 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/user-study/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

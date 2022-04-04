@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>mathematical functions on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/mathematical-functions/</link>
+		<description>Recent content in mathematical functions </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/mathematical-functions)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 14 Dec 2014 18:46:04 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/mathematical-functions/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

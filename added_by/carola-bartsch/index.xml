@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Carola Bartsch on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/carola-bartsch/</link>
+		<description>Recent content in Carola Bartsch </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/carola-bartsch)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 03 May 2017 16:44:40 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/carola-bartsch/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

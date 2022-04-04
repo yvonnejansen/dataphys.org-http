@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>thermodynamics on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/thermodynamics/</link>
+		<description>Recent content in thermodynamics </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/thermodynamics)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 07 Jul 2013 15:57:24 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/thermodynamics/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>city data on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/city-data/</link>
+		<description>Recent content in city data </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/city-data)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 17 Nov 2014 00:30:43 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/city-data/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

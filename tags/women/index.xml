@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>women on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/women/</link>
+		<description>Recent content in women </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/women)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 15 Mar 2015 18:54:46 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/women/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

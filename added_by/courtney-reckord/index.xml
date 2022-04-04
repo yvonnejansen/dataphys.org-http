@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Courtney Reckord on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/courtney-reckord/</link>
+		<description>Recent content in Courtney Reckord </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/courtney-reckord)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 11 Oct 2018 09:48:35 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/courtney-reckord/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>casual visualization on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/casual-visualization/</link>
+		<description>Recent content in casual visualization </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/casual-visualization)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 15 Nov 2014 19:39:39 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/casual-visualization/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

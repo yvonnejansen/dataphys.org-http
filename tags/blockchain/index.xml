@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>blockchain on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/blockchain/</link>
+		<description>Recent content in blockchain </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/blockchain)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 01 Aug 2018 10:27:56 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/blockchain/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

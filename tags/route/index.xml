@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>route on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/route/</link>
+		<description>Recent content in route </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/route)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 21 Oct 2018 18:56:54 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/route/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

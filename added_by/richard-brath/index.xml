@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Richard Brath on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/richard-brath/</link>
+		<description>Recent content in Richard Brath </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/richard-brath)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 27 Mar 2019 17:32:54 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/richard-brath/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

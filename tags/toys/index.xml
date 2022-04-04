@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>toys on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/toys/</link>
+		<description>Recent content in toys </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/toys)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 11 Nov 2015 20:44:15 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/toys/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

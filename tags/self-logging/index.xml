@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>self-logging on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/self-logging/</link>
+		<description>Recent content in self-logging </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/self-logging)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 07 Aug 2019 15:15:14 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/self-logging/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

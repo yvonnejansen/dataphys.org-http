@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>national statistics on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/national-statistics/</link>
+		<description>Recent content in national statistics </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/national-statistics)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 15 Nov 2014 20:31:22 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/national-statistics/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>physical exercise on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/physical-exercise/</link>
+		<description>Recent content in physical exercise </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/physical-exercise)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 03 Nov 2014 23:38:39 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/physical-exercise/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

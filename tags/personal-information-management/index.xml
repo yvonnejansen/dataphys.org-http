@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>personal information management on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/personal-information-management/</link>
+		<description>Recent content in personal information management </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/personal-information-management)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 29 Feb 2012 12:03:21 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/personal-information-management/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

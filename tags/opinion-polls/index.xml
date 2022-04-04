@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>opinion polls on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/opinion-polls/</link>
+		<description>Recent content in opinion polls </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/opinion-polls)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 19 Nov 2014 14:15:48 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/opinion-polls/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

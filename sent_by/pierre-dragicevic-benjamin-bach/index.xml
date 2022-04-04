@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pierre Dragicevic -  Benjamin Bach on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/pierre-dragicevic-benjamin-bach/</link>
+		<description>Recent content in Pierre Dragicevic -  Benjamin Bach </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/pierre-dragicevic-benjamin-bach)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 16 Aug 2013 10:24:23 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/pierre-dragicevic-benjamin-bach/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

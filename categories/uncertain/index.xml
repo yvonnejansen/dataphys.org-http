@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Uncertain on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/categories/uncertain/</link>
+		<description>Recent content in Uncertain </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/categories/uncertain)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 08 Dec 2020 15:56:47 +0000</lastBuildDate>
+		
+		<atom:link href="/categories/uncertain/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

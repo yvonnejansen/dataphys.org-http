@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mario Klemm on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/mario-klemm/</link>
+		<description>Recent content in Mario Klemm </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/mario-klemm)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 14 Nov 2017 17:14:54 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/mario-klemm/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

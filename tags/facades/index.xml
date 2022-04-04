@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>facades on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/facades/</link>
+		<description>Recent content in facades </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/facades)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 20 Nov 2016 14:12:20 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/facades/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

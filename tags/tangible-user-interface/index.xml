@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>tangible user interface on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/tangible-user-interface/</link>
+		<description>Recent content in tangible user interface </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/tangible-user-interface)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 21 Nov 2014 21:33:57 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/tangible-user-interface/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

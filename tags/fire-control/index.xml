@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>fire control on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/fire-control/</link>
+		<description>Recent content in fire control </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/fire-control)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 14 Dec 2014 18:46:04 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/fire-control/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>embedded on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/embedded/</link>
+		<description>Recent content in embedded </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/embedded)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 13 Sep 2017 22:24:29 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/embedded/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

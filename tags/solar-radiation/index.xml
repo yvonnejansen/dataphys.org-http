@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>solar radiation on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/solar-radiation/</link>
+		<description>Recent content in solar radiation </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/solar-radiation)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 05 Oct 2021 12:00:03 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/solar-radiation/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>deaths on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/deaths/</link>
+		<description>Recent content in deaths </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/deaths)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 09 Dec 2020 14:53:35 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/deaths/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

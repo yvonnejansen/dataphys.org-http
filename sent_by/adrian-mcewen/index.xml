@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Adrian McEwen on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/adrian-mcewen/</link>
+		<description>Recent content in Adrian McEwen </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/adrian-mcewen)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 16 Jan 2015 14:43:04 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/adrian-mcewen/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

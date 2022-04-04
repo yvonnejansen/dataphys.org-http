@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>injury on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/injury/</link>
+		<description>Recent content in injury </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/injury)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 30 Apr 2017 20:00:44 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/injury/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

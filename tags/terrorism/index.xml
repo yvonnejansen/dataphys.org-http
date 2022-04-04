@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>terrorism on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/terrorism/</link>
+		<description>Recent content in terrorism </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/terrorism)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 09 Jan 2019 14:40:21 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/terrorism/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>architecture on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/architecture/</link>
+		<description>Recent content in architecture </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/architecture)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 20 Jan 2015 00:48:54 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/architecture/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

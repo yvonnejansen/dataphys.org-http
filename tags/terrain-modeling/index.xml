@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>terrain modeling on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/terrain-modeling/</link>
+		<description>Recent content in terrain modeling </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/terrain-modeling)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 18 Oct 2012 23:38:33 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/terrain-modeling/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sadie Prego on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/sadie-prego/</link>
+		<description>Recent content in Sadie Prego </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/sadie-prego)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 03 Feb 2020 18:22:57 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/sadie-prego/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

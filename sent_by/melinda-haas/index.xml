@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Melinda Haas on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/melinda-haas/</link>
+		<description>Recent content in Melinda Haas </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/melinda-haas)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 09 Jan 2016 11:53:18 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/melinda-haas/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Renata Raidou on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/renata-raidou/</link>
+		<description>Recent content in Renata Raidou </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/renata-raidou)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 27 Dec 2020 16:52:48 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/renata-raidou/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

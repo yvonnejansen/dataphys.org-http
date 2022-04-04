@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>war on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/war/</link>
+		<description>Recent content in war </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/war)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 25 Mar 2019 19:23:53 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/war/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

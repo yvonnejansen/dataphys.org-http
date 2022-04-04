@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Krzysztof Golinski on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/krzysztof-golinski/</link>
+		<description>Recent content in Krzysztof Golinski </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/krzysztof-golinski)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 25 Mar 2019 19:23:53 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/krzysztof-golinski/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

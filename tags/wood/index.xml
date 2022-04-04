@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>wood on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/wood/</link>
+		<description>Recent content in wood </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/wood)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 29 Oct 2020 19:27:45 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/wood/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

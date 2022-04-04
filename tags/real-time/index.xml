@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>real-time on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/real-time/</link>
+		<description>Recent content in real-time </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/real-time)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 14 Oct 2015 12:37:09 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/real-time/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

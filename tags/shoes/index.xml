@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>shoes on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/shoes/</link>
+		<description>Recent content in shoes </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/shoes)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 03 Feb 2020 18:18:16 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/shoes/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>public on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/public/</link>
+		<description>Recent content in public </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/public)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 12 Jun 2020 19:06:38 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/public/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

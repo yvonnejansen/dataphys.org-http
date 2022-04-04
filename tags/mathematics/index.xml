@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>mathematics on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/mathematics/</link>
+		<description>Recent content in mathematics </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/mathematics)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 17 Jan 2016 13:06:38 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/mathematics/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

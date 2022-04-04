@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>geometry on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/geometry/</link>
+		<description>Recent content in geometry </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/geometry)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 01 Dec 2014 17:30:02 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/geometry/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

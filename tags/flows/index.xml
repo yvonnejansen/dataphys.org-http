@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>flows on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/flows/</link>
+		<description>Recent content in flows </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/flows)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 28 Dec 2014 19:00:04 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/flows/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

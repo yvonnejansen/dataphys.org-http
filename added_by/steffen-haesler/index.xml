@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Steffen Haesler on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/steffen-haesler/</link>
+		<description>Recent content in Steffen Haesler </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/steffen-haesler)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 08 Jan 2019 10:35:16 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/steffen-haesler/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

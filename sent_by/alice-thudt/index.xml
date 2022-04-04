@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Alice Thudt on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/alice-thudt/</link>
+		<description>Recent content in Alice Thudt </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/alice-thudt)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 04 Dec 2017 14:53:21 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/alice-thudt/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

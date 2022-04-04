@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>play-doh on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/play-doh/</link>
+		<description>Recent content in play-doh </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/play-doh)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 27 Oct 2018 23:44:21 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/play-doh/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

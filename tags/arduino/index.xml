@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>arduino on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/arduino/</link>
+		<description>Recent content in arduino </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/arduino)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 Aug 2017 17:01:26 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/arduino/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>medicine on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/medicine/</link>
+		<description>Recent content in medicine </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/medicine)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 16 Nov 2014 18:03:01 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/medicine/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

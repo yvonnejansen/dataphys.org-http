@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Forecast on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/forecast/</link>
+		<description>Recent content in Forecast </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/forecast)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 Aug 2017 17:01:26 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/forecast/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

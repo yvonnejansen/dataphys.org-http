@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>budget on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/budget/</link>
+		<description>Recent content in budget </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/budget)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 04 Jun 2015 00:42:21 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/budget/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ambient on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/ambient/</link>
+		<description>Recent content in ambient </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/ambient)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 Aug 2017 17:01:26 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/ambient/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

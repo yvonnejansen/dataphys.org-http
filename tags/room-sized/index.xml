@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>room-sized on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/room-sized/</link>
+		<description>Recent content in room-sized </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/room-sized)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 16 Aug 2013 10:24:23 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/room-sized/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

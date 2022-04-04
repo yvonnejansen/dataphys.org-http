@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jeff Pettiross on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/jeff-pettiross/</link>
+		<description>Recent content in Jeff Pettiross </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/jeff-pettiross)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 16 Jun 2018 18:06:17 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/jeff-pettiross/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

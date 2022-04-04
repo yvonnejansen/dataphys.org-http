@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>wall-mounted on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/wall-mounted/</link>
+		<description>Recent content in wall-mounted </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/wall-mounted)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 26 Aug 2015 22:25:07 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/wall-mounted/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

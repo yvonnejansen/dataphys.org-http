@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>proteine model on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/proteine-model/</link>
+		<description>Recent content in proteine model </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/proteine-model)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 23 Jun 2020 13:51:27 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/proteine-model/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

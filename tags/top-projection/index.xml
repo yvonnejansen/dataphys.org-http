@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>top projection on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/top-projection/</link>
+		<description>Recent content in top projection </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/top-projection)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 05 Jun 2013 11:00:53 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/top-projection/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

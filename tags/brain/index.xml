@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>brain on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/brain/</link>
+		<description>Recent content in brain </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/brain)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 Jan 2013 12:20:01 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/brain/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

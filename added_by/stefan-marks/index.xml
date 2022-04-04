@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Stefan Marks on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/stefan-marks/</link>
+		<description>Recent content in Stefan Marks </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/stefan-marks)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 19 Apr 2016 21:11:40 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/stefan-marks/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>marble on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/marble/</link>
+		<description>Recent content in marble </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/marble)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 09 Jan 2019 14:00:57 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/marble/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Measuring instrument on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/categories/measuring-instrument/</link>
+		<description>Recent content in Measuring instrument </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/categories/measuring-instrument)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 17 Jun 2018 16:50:36 +0000</lastBuildDate>
+		
+		<atom:link href="/categories/measuring-instrument/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

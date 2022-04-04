@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>numerical display on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/numerical-display/</link>
+		<description>Recent content in numerical display </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/numerical-display)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 25 Mar 2019 19:23:53 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/numerical-display/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

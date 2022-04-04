@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Paul Heinicker on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/paul-heinicker/</link>
+		<description>Recent content in Paul Heinicker </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/paul-heinicker)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 04 Dec 2015 16:28:50 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/paul-heinicker/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Yvonne Jansen on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/yvonne-jansen/</link>
+		<description>Recent content in Yvonne Jansen </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/yvonne-jansen)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 28 Sep 2021 12:37:25 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/yvonne-jansen/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

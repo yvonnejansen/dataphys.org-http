@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>small multiple on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/small-multiple/</link>
+		<description>Recent content in small multiple </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/small-multiple)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 28 Sep 2021 12:37:25 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/small-multiple/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

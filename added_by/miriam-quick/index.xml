@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Miriam Quick on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/miriam-quick/</link>
+		<description>Recent content in Miriam Quick </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/miriam-quick)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 08 Dec 2020 15:56:47 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/miriam-quick/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

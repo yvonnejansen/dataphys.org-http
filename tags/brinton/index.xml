@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brinton on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/brinton/</link>
+		<description>Recent content in Brinton </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/brinton)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 26 Jan 2013 12:27:36 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/brinton/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

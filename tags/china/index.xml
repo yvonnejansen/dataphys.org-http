@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>China on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/china/</link>
+		<description>Recent content in China </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/china)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 16 Nov 2014 18:52:23 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/china/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

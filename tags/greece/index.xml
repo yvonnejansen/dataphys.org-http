@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>greece on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/greece/</link>
+		<description>Recent content in greece </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/greece)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 09 Nov 2014 00:38:06 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/greece/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

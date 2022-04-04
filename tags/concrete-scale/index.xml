@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>concrete scale on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/concrete-scale/</link>
+		<description>Recent content in concrete scale </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/concrete-scale)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 03 Nov 2015 07:19:35 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/concrete-scale/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

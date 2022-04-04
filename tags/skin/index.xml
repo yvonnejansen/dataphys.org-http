@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>skin on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/skin/</link>
+		<description>Recent content in skin </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/skin)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 07 Aug 2019 15:33:23 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/skin/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Romain DiVozzo on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/romain-divozzo/</link>
+		<description>Recent content in Romain DiVozzo </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/romain-divozzo)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 19 Nov 2014 11:59:59 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/romain-divozzo/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

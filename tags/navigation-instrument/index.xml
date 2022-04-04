@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>navigation instrument on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/navigation-instrument/</link>
+		<description>Recent content in navigation instrument </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/navigation-instrument)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 16 Nov 2014 17:53:17 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/navigation-instrument/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

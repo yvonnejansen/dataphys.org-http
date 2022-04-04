@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>visual sedimentation on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/visual-sedimentation/</link>
+		<description>Recent content in visual sedimentation </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/visual-sedimentation)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 25 Jan 2015 18:36:09 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/visual-sedimentation/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

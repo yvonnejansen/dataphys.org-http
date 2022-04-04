@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>data sculpture on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/data-sculpture/</link>
+		<description>Recent content in data sculpture </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/data-sculpture)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 28 Sep 2021 12:37:25 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/data-sculpture/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

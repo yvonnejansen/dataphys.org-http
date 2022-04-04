@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>John. T. Lee on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/john.-t.-lee/</link>
+		<description>Recent content in John. T. Lee </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/john.-t.-lee)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 13 May 2016 20:10:27 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/john.-t.-lee/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

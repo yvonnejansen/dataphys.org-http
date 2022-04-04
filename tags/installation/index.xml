@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>installation on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/installation/</link>
+		<description>Recent content in installation </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/installation)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 13 Oct 2020 17:23:02 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/installation/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

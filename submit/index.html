@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+<title>Submit a physical visualization!</title>
+
+
+  
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55415265-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-55415265-1');
+  </script>
+  
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="http://dataphys.org/list/index.xml"
+  title="List of Physical Visualizations"
+/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Submit a physical visualization!"/>
+<meta name="twitter:description" content="What are appropriate submissions? Although we try to be as inclusive as possible, by physical visualization we mean a data-driven physical artefact. So it has to be both physical (i.e., not exclusively rely on flat media like paper&#43;ink or computer displays) and data-driven (like common data visualizations &ndash; see discussion here). We also include related artefacts that can help understand physical visualizations or can help create novel ones. We are especially seeking old/historical artefacts, as well as pragmatic artefacts, since these are much less common and relatively hard to find."/>
+
+
+
+  <link rel="stylesheet" href="http://dataphys.org/list/css/style.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+      <header>
+    <div class="head">
+      
+      <a href="http://dataphys.org/list/">
+        <center>
+          List of Physical Visualizations<br />
+      
+        <div class="head2">and Related Artifacts</div>
+      </center></a>
+    </div>
+
+  </header>
+  
+
+
+    
+    <main aria-role="main">
+
+      <article class="entry-main">
+      <h1> – Submit a physical visualization!</h1>
+      <div class="post">
+      <p><strong>What are appropriate submissions?</strong> Although we try to be as inclusive as possible, by physical visualization we mean a data-driven physical artefact. So it has to be both <strong>physical</strong> (i.e., not exclusively rely on flat media like paper+ink or computer displays) and <strong>data-driven</strong> (like common data visualizations &ndash; see discussion <a href="https://eagereyes.org/criticism/definition-of-visualization">here</a>). We also include <strong>related artefacts</strong> that can help understand physical visualizations or can help create novel ones. We are especially seeking old/historical artefacts, as well as <a href="https://eagereyes.org/criticism/definition-of-visualization">pragmatic</a> artefacts, since these are much less common and relatively hard to find.</p>
+<!-- Don't hesitate to use the <a href="http://dataphys.org/list/feedback/">general comment page</a> in you have concerns or questions.</p> -->
+<p>Please follow our instructions below for optimal formatting. Your submission will be processed more rapidly if you do. Thank you very much for your contribution!</p>
+<div class="submit_form">
+<form id="new_post" action="https://formspree.io/f/xayaygoq" name="new_post" method="POST" class="submit_form" onsubmit="return validateForm();">
+	<!-- post name -->
+	<fieldset name="name">
+		<label for="title">* Title:&nbsp</label>
+		<label class="hint">A good title is short and informative. Complement artwork and system names with a very short description if necessary.</label><br/>
+		<input tabindex="1" class="title_field" type="text" id="title" value="" cols="50" size="30" name="title" autofocus/>
+	</fieldset>
+	<!-- year -->
+	<fieldset class="year_of_creation">
+		<label for="year_of_creation">* Year of creation:&nbsp</label>
+		<label class="hint">Year will be displayed right before the title. Please use the <a href="http://www.archive.org" target="_blank">wayback machine</a> or Google search by date if you are unsure. Use a minus sign for BC.</label><br/>
+		<input tabindex="2" type="number" class="title_field" value="" id="year_of_creation" size="4" name="year_of_creation"/>
+	</fieldset>
+	<!-- post Content -->
+	<fieldset class="content" style="width: 100%">
+		<label for="description">* Images and description:</label><br/>
+		<textarea name="description" id="editor">
+Insert one or more images here using the image tool of this editor and set their displayed size to ~400 x 300 max. Put the images side-by-side and give them the same height. A thumbnail of the first image will be generated for the front page. 
+<p>Write a description here. Use the quote formatting tool if you copy and paste text from elsewhere. For artwork, we prefer if you describe them using your own simple words.</p>
+<p>Source: author and title with hyperlink.</p>
+<p>For more than one source, use the following template:</p>
+<p>Sources:</p>
+<ul>
+<li>First source</li>
+<li>Second source
+</textarea>
+  </fieldset>
+  <!-- sources -->
+  <fieldset class="sources" style="clear:left">
+      <label for="cat">* Have you properly acknowledged your sources?</label>
+      <label class="hint">Make sure you provide a list of links above to tell your readers where the information and all images come from.</label><br/>
+      <input tabindex="6" type="checkbox" name="sources" id="sources" value="sources"/> Yes
+  </fieldset>
+  <!-- post Category -->
+  <fieldset class="category">
+      <label for="cat">Category:</label>
+      <label class="hint">Categories will be explained soon. If you're unsure, just leave 'Uncertain / Disputed', and we will fix it.</label><br/>
+      <select>
+          <option value="Passive physical visualization">Passive physical visualization</option>
+          <option value="Active physical visualization">Active physical visualization</option>
+          <option value="Physical model">Physical model</option>
+          <option value="Measuring instrument">Measuring instrument</option>						
+          <option value="Interactive installation">Interactive installation</option>
+          <option value="Enabling technology">Enabling technology</option>
+          <option value="Other">Other</option>
+          <option value="Uncertain" selected>Uncertain</option>
+      </select>
+  </fieldset>
+  <!-- post tags -->
+  <fieldset class="tags">
+      <label for="post_tags">Tags:</label>
+      <label class="hint">(Optional) comma-separated.</label><br/>
+      <input tabindex="8" type="text" value="" name="post_tags" id="post_tags" size="30"/>
+  </fieldset>
+  <!-- added by -->
+  <fieldset class="added_by">
+      <label for="added_by">* Added by:</label>
+      <label class="hint">Write down your name to be credited with this submission. Full name preferred.</label><br/>
+      <input tabindex="10" type="text" value="" id="added_by" name="added_by" size="20" />
+  </fieldset>
+  <!-- sent by -->
+  <fieldset class="sent_by">
+      <label for="sent_by">Sent by:</label>
+      <label class="hint">(Optional) who sent you this information? Full name preferred.</label><br/>
+      <input tabindex="10" type="text" value="" id="sent_by" name="sent_by" size="20" />
+  </fieldset>
+  <!-- message to the curators -->
+  <fieldset class="message">
+      <label for="message">Private message to the curators:</label>
+      <label class="hint">(Optional) Send us any information that can help us process your submission. It will not show up in the post.</label><br/>
+      <textarea name="message" id="message" value="" cols="60" rows="5"></textarea>
+  </fieldset>
+  <fieldset class="hidden" style="hidden: true">
+      <label>Do not fill this<input type="text" name="miel-label" id="miel-label"><input type="text" name="miel" onchange="document.getElementById('year_of_creation').value = '';"></label>
+  </fieldset>
+  <fieldset class="submit">
+      <label class="hint">Click the submit button once done. You won't be able to edit your post after this.</label><br/>
+      <input tabindex="14" class="submit_button" type="submit" value="Submit" tabindex="40" id="submit" name="submit" />
+  </fieldset>
+</li>
+</ul>
+</form>
+</div>
+
+      
+      
+      
+    </div>
+    </article>
+</main>
+
+
+    <footer>
+  <div class="footer">
+  <hr/>
+      <span class="tweetfollow alignright">Get notified of new posts: <div class="twitter-icon"><a href="https://twitter.com/dataphys"><img src="http://dataphys.org/list/images/Twitter_Logo_Blue.png"></a></div></span>
+
+      <div class="license">
+            <div class="alignleft cc-image"><a href="http://creativecommons.org/licenses/by-sa/3.0/" style="text-decoration: none;"><img alt="" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a></div>
+            
+            <div class="alignleft views-expressed">
+              <span>The views expressed on this page are not necessarily the views of the curators and of their respective institutions.  This collection is <a href="http://creativecommons.org/licenses/by-sa/3.0/" style="text-decoration: none;">CC-BY-SA</a>. If you reuse or adapt it, please reference this page. <a href="javascript:;" onclick="toggle_visibility('bibtex');">See BibTeX</a> for citing.</span>
+            
+              <div id="bibtex" style="display:none;">
+                <div class="code">    
+    @Misc{physlist,
+        Title                    = {List of Physical Visualizations},
+        Author                   = {Dragicevic, Pierre and Jansen, Yvonne},
+        HowPublished             = {\href{http://www.dataphys.org/list}{www.dataphys.org/list}},
+        Note                     = {Last accessed <span id="bibtex-date"></span>},
+        Year                     = {2012}
+      }</div>
+              </div>
+          </div>
+
+      </div>
+    
+  </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+  
+    <script src="https://cdn.tiny.cloud/1/c31xknggzpzyo284saheceyqnkdxj8b8by1il7xf8xk0sgqo/tinymce/5/tinymce.min.js"></script>
+    <script src="../js/submit.js"></script>
+  
+
+<script src="http://dataphys.org/list/js/footer.js"></script>
+</footer>
+
+  </body>
+</html>

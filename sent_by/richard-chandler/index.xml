@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Richard Chandler on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/richard-chandler/</link>
+		<description>Recent content in Richard Chandler </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/richard-chandler)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 04 Jan 2020 15:06:10 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/richard-chandler/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

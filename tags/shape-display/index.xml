@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>shape display on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/shape-display/</link>
+		<description>Recent content in shape display </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/shape-display)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 18 Feb 2015 00:38:22 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/shape-display/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

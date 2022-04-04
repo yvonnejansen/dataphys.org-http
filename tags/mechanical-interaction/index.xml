@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>mechanical interaction on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/mechanical-interaction/</link>
+		<description>Recent content in mechanical interaction </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/mechanical-interaction)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 03 Dec 2020 17:03:25 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/mechanical-interaction/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

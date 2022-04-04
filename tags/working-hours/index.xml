@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>working hours on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/working-hours/</link>
+		<description>Recent content in working hours </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/working-hours)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 16 Jan 2015 14:43:04 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/working-hours/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

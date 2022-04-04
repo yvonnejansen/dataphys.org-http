@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>electricity on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/electricity/</link>
+		<description>Recent content in electricity </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/electricity)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 May 2018 22:56:05 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/electricity/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

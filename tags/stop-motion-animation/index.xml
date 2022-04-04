@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>stop motion animation on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/stop-motion-animation/</link>
+		<description>Recent content in stop motion animation </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/stop-motion-animation)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 16 Apr 2018 13:59:16 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/stop-motion-animation/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

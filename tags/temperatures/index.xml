@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>temperatures on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/temperatures/</link>
+		<description>Recent content in temperatures </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/temperatures)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 04 Jan 2017 13:57:56 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/temperatures/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

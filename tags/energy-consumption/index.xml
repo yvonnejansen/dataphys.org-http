@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>energy consumption on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/energy-consumption/</link>
+		<description>Recent content in energy consumption </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/energy-consumption)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 29 Oct 2020 19:27:45 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/energy-consumption/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>gift on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/gift/</link>
+		<description>Recent content in gift </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/gift)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 01 Apr 2015 22:41:49 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/gift/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

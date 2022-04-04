@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jean-Daniel Fekete on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/jean-daniel-fekete/</link>
+		<description>Recent content in Jean-Daniel Fekete </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/jean-daniel-fekete)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 01 Apr 2015 22:55:25 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/jean-daniel-fekete/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

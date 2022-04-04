@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>world values on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/world-values/</link>
+		<description>Recent content in world values </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/world-values)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 07 Feb 2015 02:28:45 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/world-values/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+<title>Pearson and Lee&#39;s Height Correlation Chart</title>
+
+
+  
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55415265-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-55415265-1');
+  </script>
+  
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="http://dataphys.org/list/index.xml"
+  title="List of Physical Visualizations"
+/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Pearson and Lee&#39;s Height Correlation Chart"/>
+<meta name="twitter:description" content="The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons (&#34;vertical&#34; axis). This data was famously collected by Karl Pearson and Alice Lee between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911."/>
+
+
+
+  <link rel="stylesheet" href="http://dataphys.org/list/css/style.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+      <header>
+    <div class="head">
+      
+      <a href="http://dataphys.org/list/">
+        <center>
+          List of Physical Visualizations<br />
+      
+        <div class="head2">and Related Artifacts</div>
+      </center></a>
+    </div>
+
+  </header>
+  
+
+
+    
+    <main aria-role="main">
+
+      <article class="entry-main">
+      <h1>1900 – Pearson and Lee&#39;s Height Correlation Chart</h1>
+      <div class="post">
+      <p>
+<a href="http://dataphys.org/list/images/uploads/2020/01/RegressionTheOriginal.jpg"><img alt="" src="http://dataphys.org/list/images/uploads/2020/01/RegressionTheOriginal.jpg" style="width: 400px; height: 300px;"/></a>  <a href="http://dataphys.org/list/images/uploads/2020/01/DSC_1087.jpg"><img alt="" src="http://dataphys.org/list/images/uploads/2020/01/DSC_1087.jpg" style="width: 450px; height: 300px;"/></a>
+</p>
+<p>
+	The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons ("vertical" axis). This data was famously collected by <a href="https://en.wikipedia.org/wiki/Karl_Pearson">Karl Pearson</a> and <a href="https://en.wikipedia.org/wiki/Alice_Lee_(mathematician)">Alice Lee</a> between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911.
+</p>
+<p>
+	I (Pierre) learned about this model after seeing a more recent model in the archives of the <a href="http://www.ihp.fr/en/node/404">collection of solid mathematical models</a> at the Institut Henri Poincaré (right image). A label said "Model Prepared by Dept. of Statistics, University College London". I then wrote to Professor <a href="https://www.ucl.ac.uk/statistics/people/richardchandler">Richard Chandler</a>, current chair of the statistics department, to ask if he had more information about this model. He replied soon after:
+</p>
+<blockquote>
+<p>
+		Thank you for your message below. This is interesting … I have never seen this particular model before, but the labelling looks very similar to some exhibits that were prepared for an event at the Royal Statistical Society in (I think) the 1980s. I arrived at UCL in 1994: at that time there were some people in the department who had been involved in that event. Unfortunately they are no longer with us, so I can’t provide any further information.
+	</p>
+<p>
+		I can, however, speculate that the model you’re showing is a cardboard copy of a much older one that was prepared at the end of the 19th century, probably under the supervision of Karl Pearson. We still have this. I found this particular model in my desk drawer when I first arrived at UCL: it was broken into a very large number of pieces, but I had it restored. It is quite a nice piece of 19th-century data visualisation, I think!
+	</p>
+</blockquote>
+<p>
+	Upon closer examination, the newer model does not show the same dataset as the older model. The following R code replicates the older model exactly, confirming that it shows the original dataset from Pearson and Lee:
+</p>
+<p style="margin-left: 40px;">
+<span style="font-size:12px;"><span style="font-family:courier new,courier,monospace;">library(dplyr)</span></span>
+</p>
+<p style="margin-left: 40px;">
+<span style="font-size:12px;"><span style="font-family:courier new,courier,monospace;">d = HistData::PearsonLee %&gt;%<br/>
+	  filter(par == "Father" &amp; chl == "Son") %&gt;%<br/>
+	  reshape2::acast(parent~child, value.var="frequency")</span></span>
+</p>
+<p style="margin-left: 40px;">
+<span style="font-size:12px;"><span style="font-family:courier new,courier,monospace;">plot3D::hist3D(z = d[nrow(d):1,], col="white", border="black", shade=0.2, phi=60, theta=0)</span></span>
+</p>
+<p>
+<em>Sources:</em>
+</p>
+<ol>
+<li>
+		Pearson, K., &amp; Lee, A. (1903). <a href="https://sci-hub.se/10.2307/2331507">On the Laws of Inheritance in Man: I. Inheritance of Physical Characters</a>.
+	</li>
+<li>
+		Left photo kindly sent by <a href="https://www.ucl.ac.uk/statistics/people/richardchandler">Richard Chandler</a>.
+	</li>
+<li>
+		Right photo taken by Pierre Dragicevic during a visit kindly organized by <a href="https://albamath.com/">Alba Málaga</a> and guided by François Apéry.
+	</li>
+</ol>
+
+      
+      
+        <br><hr>
+        <div class="categories">
+          <div class="categories tagi">
+  Added by: <b>Pierre Dragicevic</b>, sent by: <b>Richard Chandler</b>.
+  
+    Category:
+    
+      <a
+        href="http://dataphys.org/list/categories/passive-physical-visualization/"
+        >Passive physical visualization</a
+      >&nbsp;
+    
+  
+  
+    Tags:
+    <a
+        href="http://dataphys.org/list/tags/correlation/"
+        >correlation</a>, <a
+        href="http://dataphys.org/list/tags/distribution/"
+        >distribution</a>, <a
+        href="http://dataphys.org/list/tags/science/"
+        >science</a>, <a
+        href="http://dataphys.org/list/tags/statistics/"
+        >statistics</a>
+  
+</div>
+
+        </div>
+        
+      
+    </div>
+    </article>
+</main>
+
+
+    <footer>
+  <div class="footer">
+  <hr/>
+      <span class="tweetfollow alignright">Get notified of new posts: <div class="twitter-icon"><a href="https://twitter.com/dataphys"><img src="http://dataphys.org/list/images/Twitter_Logo_Blue.png"></a></div></span>
+
+      <div class="license">
+            <div class="alignleft cc-image"><a href="http://creativecommons.org/licenses/by-sa/3.0/" style="text-decoration: none;"><img alt="" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a></div>
+            
+            <div class="alignleft views-expressed">
+              <span>The views expressed on this page are not necessarily the views of the curators and of their respective institutions.  This collection is <a href="http://creativecommons.org/licenses/by-sa/3.0/" style="text-decoration: none;">CC-BY-SA</a>. If you reuse or adapt it, please reference this page. <a href="javascript:;" onclick="toggle_visibility('bibtex');">See BibTeX</a> for citing.</span>
+            
+              <div id="bibtex" style="display:none;">
+                <div class="code">    
+    @Misc{physlist,
+        Title                    = {List of Physical Visualizations},
+        Author                   = {Dragicevic, Pierre and Jansen, Yvonne},
+        HowPublished             = {\href{http://www.dataphys.org/list}{www.dataphys.org/list}},
+        Note                     = {Last accessed <span id="bibtex-date"></span>},
+        Year                     = {2012}
+      }</div>
+              </div>
+          </div>
+
+      </div>
+    
+  </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+  
+<script src="http://dataphys.org/list/js/footer.js"></script>
+</footer>
+
+  </body>
+</html>

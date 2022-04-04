@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ben Kauffman on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/ben-kauffman/</link>
+		<description>Recent content in Ben Kauffman </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/ben-kauffman)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 15 Jul 2013 12:25:01 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/ben-kauffman/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

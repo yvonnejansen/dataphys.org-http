@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Christophe Hurter on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/christophe-hurter/</link>
+		<description>Recent content in Christophe Hurter </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/christophe-hurter)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 28 Oct 2017 17:13:19 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/christophe-hurter/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

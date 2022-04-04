@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nicolas Stark on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/nicolas-stark/</link>
+		<description>Recent content in Nicolas Stark </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/nicolas-stark)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 29 Oct 2020 19:27:45 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/nicolas-stark/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

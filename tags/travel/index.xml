@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>travel on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/travel/</link>
+		<description>Recent content in travel </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/travel)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 28 Apr 2015 10:29:09 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/travel/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

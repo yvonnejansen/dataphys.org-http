@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ambient display on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/ambient-display/</link>
+		<description>Recent content in ambient display </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/ambient-display)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 12 Jun 2016 20:19:12 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/ambient-display/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

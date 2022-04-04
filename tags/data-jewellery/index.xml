@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>data jewellery on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/data-jewellery/</link>
+		<description>Recent content in data jewellery </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/data-jewellery)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 13 Oct 2020 17:28:50 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/data-jewellery/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

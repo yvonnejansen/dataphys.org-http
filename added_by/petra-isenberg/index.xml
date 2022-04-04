@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Petra Isenberg on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/petra-isenberg/</link>
+		<description>Recent content in Petra Isenberg </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/petra-isenberg)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 13 Oct 2020 17:28:50 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/petra-isenberg/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

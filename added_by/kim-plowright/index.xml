@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kim Plowright on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/kim-plowright/</link>
+		<description>Recent content in Kim Plowright </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/kim-plowright)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 20 Sep 2021 08:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/kim-plowright/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

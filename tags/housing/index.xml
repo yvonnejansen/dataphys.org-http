@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>housing on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/housing/</link>
+		<description>Recent content in housing </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/housing)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 13 Jan 2015 23:50:32 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/housing/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

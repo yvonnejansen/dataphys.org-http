@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thompson on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/thompson/</link>
+		<description>Recent content in Thompson </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/thompson)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 07 Jul 2013 15:57:24 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/thompson/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

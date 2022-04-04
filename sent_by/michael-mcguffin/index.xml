@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Michael McGuffin on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/michael-mcguffin/</link>
+		<description>Recent content in Michael McGuffin </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/michael-mcguffin)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 06 Nov 2018 18:18:38 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/michael-mcguffin/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

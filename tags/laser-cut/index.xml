@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>laser-cut on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/laser-cut/</link>
+		<description>Recent content in laser-cut </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/laser-cut)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 22 Aug 2018 16:50:44 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/laser-cut/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

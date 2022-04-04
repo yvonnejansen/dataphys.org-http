@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>multimaterial on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/multimaterial/</link>
+		<description>Recent content in multimaterial </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/multimaterial)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 29 Jun 2018 15:40:27 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/multimaterial/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

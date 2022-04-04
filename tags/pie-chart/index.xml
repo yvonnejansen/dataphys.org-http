@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>pie chart on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/pie-chart/</link>
+		<description>Recent content in pie chart </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/pie-chart)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 26 Jun 2015 22:01:33 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/pie-chart/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

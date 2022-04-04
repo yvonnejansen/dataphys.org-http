@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Wesley Willett on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/wesley-willett/</link>
+		<description>Recent content in Wesley Willett </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/wesley-willett)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 03 Oct 2016 22:16:55 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/wesley-willett/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

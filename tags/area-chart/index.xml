@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>area chart on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/area-chart/</link>
+		<description>Recent content in area chart </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/area-chart)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 21 Dec 2014 02:02:52 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/area-chart/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

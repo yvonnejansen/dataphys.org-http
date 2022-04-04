@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>tilt indicator on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/tilt-indicator/</link>
+		<description>Recent content in tilt indicator </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/tilt-indicator)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 05 Dec 2014 00:13:24 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/tilt-indicator/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

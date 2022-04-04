@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>line graph on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/line-graph/</link>
+		<description>Recent content in line graph </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/line-graph)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 23 Nov 2014 12:41:38 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/line-graph/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

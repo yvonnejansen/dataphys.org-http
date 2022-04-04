@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>toe tag on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/toe-tag/</link>
+		<description>Recent content in toe tag </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/toe-tag)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 14 Feb 2019 14:03:43 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/toe-tag/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

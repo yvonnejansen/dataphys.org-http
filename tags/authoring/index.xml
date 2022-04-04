@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>authoring on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/authoring/</link>
+		<description>Recent content in authoring </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/authoring)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 13 Dec 2014 14:09:52 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/authoring/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

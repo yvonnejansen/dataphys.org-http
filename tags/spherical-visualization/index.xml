@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>spherical visualization on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/spherical-visualization/</link>
+		<description>Recent content in spherical visualization </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/spherical-visualization)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 21 Mar 2016 21:44:57 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/spherical-visualization/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

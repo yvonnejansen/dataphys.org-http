@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nick Marotta on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/nick-marotta/</link>
+		<description>Recent content in Nick Marotta </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/nick-marotta)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 03 Feb 2020 18:18:16 +0000</lastBuildDate>
+		
+		<atom:link href="/added_by/nick-marotta/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

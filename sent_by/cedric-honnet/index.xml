@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cedric Honnet on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/cedric-honnet/</link>
+		<description>Recent content in Cedric Honnet </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/cedric-honnet)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 12 Mar 2018 16:40:33 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/cedric-honnet/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>pebbles on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/pebbles/</link>
+		<description>Recent content in pebbles </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/pebbles)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 20 May 2016 18:08:30 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/pebbles/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

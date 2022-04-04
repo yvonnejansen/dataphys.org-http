@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>tactile on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/tactile/</link>
+		<description>Recent content in tactile </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/tactile)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 09 Sep 2012 11:03:03 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/tactile/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

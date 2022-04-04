@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>papier-mâché on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/papier-m%C3%A2ch%C3%A9/</link>
+		<description>Recent content in papier-mâché </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/papier-mâché)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 19 Nov 2014 13:19:30 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/papier-m%C3%A2ch%C3%A9/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>powder on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/powder/</link>
+		<description>Recent content in powder </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/powder)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 04 Dec 2017 14:53:21 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/powder/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

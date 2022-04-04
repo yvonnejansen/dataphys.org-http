@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>incas on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/incas/</link>
+		<description>Recent content in incas </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/incas)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 22 Sep 2013 19:50:15 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/incas/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

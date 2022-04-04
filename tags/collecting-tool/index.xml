@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>collecting tool on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/collecting-tool/</link>
+		<description>Recent content in collecting tool </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/collecting-tool)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 30 Aug 2017 16:18:35 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/collecting-tool/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

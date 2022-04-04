@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>pin map on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/pin-map/</link>
+		<description>Recent content in pin map </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/pin-map)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 26 Jan 2013 12:48:24 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/pin-map/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>RJ Andrews on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/rj-andrews/</link>
+		<description>Recent content in RJ Andrews </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/rj-andrews)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 23 Dec 2019 15:55:44 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/rj-andrews/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

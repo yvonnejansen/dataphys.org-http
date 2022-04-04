@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>cellphone on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/cellphone/</link>
+		<description>Recent content in cellphone </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/cellphone)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 29 Feb 2012 11:19:50 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/cellphone/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Maarten Lambrechts on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/maarten-lambrechts/</link>
+		<description>Recent content in Maarten Lambrechts </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/maarten-lambrechts)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 07 Aug 2019 15:33:23 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/maarten-lambrechts/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

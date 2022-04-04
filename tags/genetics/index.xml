@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>genetics on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/genetics/</link>
+		<description>Recent content in genetics </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/genetics)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 28 Apr 2015 16:34:19 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/genetics/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

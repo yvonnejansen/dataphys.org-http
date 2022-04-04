@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plushies on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/plushies/</link>
+		<description>Recent content in Plushies </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/plushies)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 28 Nov 2012 13:37:51 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/plushies/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

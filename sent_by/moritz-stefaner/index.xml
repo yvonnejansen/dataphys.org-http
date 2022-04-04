@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Moritz Stefaner on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/moritz-stefaner/</link>
+		<description>Recent content in Moritz Stefaner </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/moritz-stefaner)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 01 Feb 2013 14:28:43 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/moritz-stefaner/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

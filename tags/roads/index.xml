@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>roads on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/roads/</link>
+		<description>Recent content in roads </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/roads)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 30 Apr 2019 20:36:33 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/roads/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

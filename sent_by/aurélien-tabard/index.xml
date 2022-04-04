@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Aurélien Tabard on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/sent_by/aur%C3%A9lien-tabard/</link>
+		<description>Recent content in Aurélien Tabard </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/sent_by/aurélien-tabard)</managingEditor>
+    	
+  		<lastBuildDate>Sun, 04 Mar 2018 10:37:05 +0000</lastBuildDate>
+		
+		<atom:link href="/sent_by/aur%C3%A9lien-tabard/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
