@@ -67,13 +67,18 @@
     <h1 class="post-title">1900 – Pearson and Lee&#39;s Height Correlation Chart</h1>
   </a>
   <div class="post-entry">
-    <a href="http://dataphys.org/list/pearson-lee-height-correlation-chart/"><img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2020/01/RegressionTheOriginal-170x100@2x.jpg"></a>
+
+    <a href="http://dataphys.org/list/pearson-lee-height-correlation-chart/">
+    
+      <img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2020/01/RegressionTheOriginal-170x100@2x.jpg">     
+      
+    </a>
     <div class="excerpt-listview">
       <p>
   
-    The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons (&#34;vertical&#34; axis). This data was famously collected by Karl Pearson and Alice Lee between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911. [&hellip;]</p>
+ The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons (&#34;vertical&#34; axis). This data was famously collected by Karl Pearson and Alice Lee between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911. I [&hellip;]</p>
     </div>
-    <div class="hidden full-text">    The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons (&#34;vertical&#34; axis). This data was famously collected by Karl Pearson and Alice Lee between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911.  I (Pierre) learned about this model after seeing a more recent model in the archives of the collection of solid mathematical models at the Institut Henri Poincaré (right image). A label said &#34;Model Prepared by Dept. of Statistics, University College London&#34;. I then wrote to Professor Richard Chandler, current chair of the statistics department, to ask if he had more information about this model. He replied soon after:   Thank you for your message below. This is interesting … I have never seen this particular model before, but the labelling looks very similar to some exhibits that were prepared for an event at the Royal Statistical Society in (I think) the 1980s. I arrived at UCL in 1994: at that time there were some people in the department who had been involved in that event. Unfortunately they are no longer with us, so I can’t provide any further information.  I can, however, speculate that the model you’re showing is a cardboard copy of a much older one that was prepared at the end of the 19th century, probably under the supervision of Karl Pearson. We still have this. I found this particular model in my desk drawer when I first arrived at UCL: it was broken into a very large number of pieces, but I had it restored. It is quite a nice piece of 19th-century data visualisation, I think!   Upon closer examination, the newer model does not show the same dataset as the older model. The following R code replicates the older model exactly, confirming that it shows the original dataset from Pearson and Lee: library(dplyr) d = HistData::PearsonLee %&amp;gt;% filter(par == &#34;Father&#34; &amp;amp; chl == &#34;Son&#34;) %&amp;gt;% reshape2::acast(parent~child, value.var=&#34;frequency&#34;) plot3D::hist3D(z = d[nrow(d):1,], col=&#34;white&#34;, border=&#34;black&#34;, shade=0.2, phi=60, theta=0)  Sources:   Pearson, K., &amp;amp; Lee, A. (1903). On the Laws of Inheritance in Man: I. Inheritance of Physical Characters.   Left photo kindly sent by Richard Chandler.   Right photo taken by Pierre Dragicevic during a visit kindly organized by Alba Málaga and guided by François Apéry.   </div>
+    <div class="hidden full-text"> The physical model on the left is a bivariate histogram showing the correlation between the heights of fathers (horizontal axis) and sons (&#34;vertical&#34; axis). This data was famously collected by Karl Pearson and Alice Lee between 1893 and 1898. The physical visualization is thought to have been constructed around this time period or soon after, possibly under the supervision of Pearson. It is kept at the Department of Statistical Science, University College London, founded by Pearson in 1911. I (Pierre) learned about this model after seeing a more recent model in the archives of the collection of solid mathematical models at the Institut Henri Poincaré (right image). A label said &#34;Model Prepared by Dept. of Statistics, University College London&#34;. I then wrote to Professor Richard Chandler, current chair of the statistics department, to ask if he had more information about this model. He replied soon after: Thank you for your message below. This is interesting … I have never seen this particular model before, but the labelling looks very similar to some exhibits that were prepared for an event at the Royal Statistical Society in (I think) the 1980s. I arrived at UCL in 1994: at that time there were some people in the department who had been involved in that event. Unfortunately they are no longer with us, so I can’t provide any further information. I can, however, speculate that the model you’re showing is a cardboard copy of a much older one that was prepared at the end of the 19th century, probably under the supervision of Karl Pearson. We still have this. I found this particular model in my desk drawer when I first arrived at UCL: it was broken into a very large number of pieces, but I had it restored. It is quite a nice piece of 19th-century data visualisation, I think! Upon closer examination, the newer model does not show the same dataset as the older model. The following R code replicates the older model exactly, confirming that it shows the original dataset from Pearson and Lee: library(dplyr) d = HistData::PearsonLee %&amp;gt;% filter(par == &#34;Father&#34; &amp;amp; chl == &#34;Son&#34;) %&amp;gt;% reshape2::acast(parent~child, value.var=&#34;frequency&#34;) plot3D::hist3D(z = d[nrow(d):1,], col=&#34;white&#34;, border=&#34;black&#34;, shade=0.2, phi=60, theta=0) Sources: Pearson, K., &amp;amp; Lee, A. (1903). On the Laws of Inheritance in Man: I. Inheritance of Physical Characters. Left photo kindly sent by Richard Chandler. Right photo taken by Pierre Dragicevic during a visit kindly organized by Alba Málaga and guided by François Apéry. </div>
 
   <div class="categories">
     <div class="categories tagi">
@@ -112,13 +117,18 @@
     <h1 class="post-title">2009 – Distribution Plushies</h1>
   </a>
   <div class="post-entry">
-    <a href="http://dataphys.org/list/distribution-plushies/"><img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2014/10/il_570xN.243485281-170x100@2x.jpg"></a>
+
+    <a href="http://dataphys.org/list/distribution-plushies/">
+    
+      <img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2014/10/il_570xN.243485281-170x100@2x.jpg">     
+      
+    </a>
     <div class="excerpt-listview">
       <p>
   
-   A commercial offer for a set of 10 plush distributions. Although not formally physical visualizations, they could in principle encode actual data.  Source: web shop </p>
+ A commercial offer for a set of 10 plush distributions. Although not formally physical visualizations, they could in principle encode actual data. Source: web shop </p>
     </div>
-    <div class="hidden full-text">   A commercial offer for a set of 10 plush distributions. Although not formally physical visualizations, they could in principle encode actual data.  Source: web shop </div>
+    <div class="hidden full-text"> A commercial offer for a set of 10 plush distributions. Although not formally physical visualizations, they could in principle encode actual data. Source: web shop </div>
 
   <div class="categories">
     <div class="categories tagi">
@@ -153,13 +163,18 @@
     <h1 class="post-title">2014 – District 5: Tube Charts Reveal Decline in Violence</h1>
   </a>
   <div class="post-entry">
-    <a href="http://dataphys.org/list/district-5-tube-charts-reveal-decline-in-violence/"><img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2015/02/District5-preview-170x100@2x.jpg"></a>
+
+    <a href="http://dataphys.org/list/district-5-tube-charts-reveal-decline-in-violence/">
+    
+      <img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2015/02/District5-preview-170x100@2x.jpg">     
+      
+    </a>
     <div class="excerpt-listview">
       <p>
   
-   California-based artist Loren Madsen, a long-time data sculptor (see our 1995 entry and our interview with him), created an outdoor sculpture where steel tubes show falling crime rates across eight crime categories over 30 years. The sculpture stands in front of a police station and jail in Chicago City.  Sources:   ​Healther Schultz (2015) California Sculptor Completes Commissioned Piece.   Image courtesy of Loren Madsen.   Also see Steven Pinker&#39;s TED Talk on the topic.   </p>
+ California-based artist Loren Madsen, a long-time data sculptor (see our 1995 entry and our interview with him), created an outdoor sculpture where steel tubes show falling crime rates across eight crime categories over 30 years. The sculpture stands in front of a police station and jail in Chicago City. Sources: ​Healther Schultz (2015) California Sculptor Completes Commissioned Piece. Image courtesy of Loren Madsen. Also see Steven Pinker&#39;s TED Talk on the topic. </p>
     </div>
-    <div class="hidden full-text">   California-based artist Loren Madsen, a long-time data sculptor (see our 1995 entry and our interview with him), created an outdoor sculpture where steel tubes show falling crime rates across eight crime categories over 30 years. The sculpture stands in front of a police station and jail in Chicago City.  Sources:   ​Healther Schultz (2015) California Sculptor Completes Commissioned Piece.   Image courtesy of Loren Madsen.   Also see Steven Pinker&#39;s TED Talk on the topic.   </div>
+    <div class="hidden full-text"> California-based artist Loren Madsen, a long-time data sculptor (see our 1995 entry and our interview with him), created an outdoor sculpture where steel tubes show falling crime rates across eight crime categories over 30 years. The sculpture stands in front of a police station and jail in Chicago City. Sources: ​Healther Schultz (2015) California Sculptor Completes Commissioned Piece. Image courtesy of Loren Madsen. Also see Steven Pinker&#39;s TED Talk on the topic. </div>
 
   <div class="categories">
     <div class="categories tagi">
@@ -200,13 +215,18 @@
     <h1 class="post-title">2019 – Physical Violin Plot</h1>
   </a>
   <div class="post-entry">
-    <a href="http://dataphys.org/list/physical-violin-plot/"><img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2020/12/violin-plot-170x100@2x.jpeg"></a>
+
+    <a href="http://dataphys.org/list/physical-violin-plot/">
+    
+      <img class="list-view" width="170px" height="100px" src="http://dataphys.org/list/images/uploads/2020/12/violin-plot-170x100@2x.jpeg">     
+      
+    </a>
     <div class="excerpt-listview">
       <p>
   
-   A physical violin plot created by sculptor and psychology researcher Hunter Brown. See related entries also using clay here.  Source: Tweet from Julia Strand (@juliafstrand), June 12, 2019. </p>
+ A physical violin plot created by sculptor and psychology researcher Hunter Brown. See related entries also using clay here. Source: Tweet from Julia Strand (@juliafstrand), June 12, 2019. </p>
     </div>
-    <div class="hidden full-text">   A physical violin plot created by sculptor and psychology researcher Hunter Brown. See related entries also using clay here.  Source: Tweet from Julia Strand (@juliafstrand), June 12, 2019. </div>
+    <div class="hidden full-text"> A physical violin plot created by sculptor and psychology researcher Hunter Brown. See related entries also using clay here. Source: Tweet from Julia Strand (@juliafstrand), June 12, 2019. </div>
 
   <div class="categories">
     <div class="categories tagi">

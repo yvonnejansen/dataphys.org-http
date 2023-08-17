@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Matthew Mosher on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/added_by/matthew-mosher/</link>
+		<description>Recent content in Matthew Mosher </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/added_by/matthew-mosher)</managingEditor>
+    	
+		<atom:link href="/added_by/matthew-mosher/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

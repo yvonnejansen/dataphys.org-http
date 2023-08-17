@@ -171,16 +171,57 @@
       }
     });
 
-    pastebin.addEventListener('paste', function () {
-      setTimeout(function () {
-        var html = pastebin.innerHTML;
-        var markdown = convert(html);
-        // output.value = markdown;
-        insert(output, markdown);
-        wrapper.classList.remove('hidden');
-        output.focus();
-        output.select();
-      }, 200);
+    // pastebin.addEventListener('paste', function () {
+    //   setTimeout(function () {
+    //     var html = pastebin.innerHTML;
+    //     var markdown = convert(html);
+    //     // output.value = markdown;
+    //     insert(output, markdown);
+    //     wrapper.classList.remove('hidden');
+    //     output.focus();
+    //     output.select();
+    //   }, 200);
+    // });
+
+
+    // my code 
+
+    $(document).ready(function(){
+      console.log("my code loaded");
+    $("iframe").on("load", function(){
+        // const iframe = $('iframe').contents(); //.find('iframe').contents().find('#editor_ui_iframe').contents();
+        var mkdown = $('iframe').contents().find('#input_36');
+        mkdown.on('change', function () {
+          // setTimeout(function () {
+            console.log('change');
+            var html = mkdown.innerHTML;
+            var markdown = convert(html);
+            mkdown.val(markdown);
+            console.log('markdown field: ' + mkdown.val());
+            // output.value = markdown;
+          //   insert(output, markdown);
+          //   wrapper.classList.remove('hidden');
+          //   output.focus();
+          //   output.select();
+          // }, 200);
+        });
+        // $(this).contents().on("click", function(){
+        //     console.log("click");
+        //     console.log("tiny " + $(text).val());
+        // });
+        // $(this).contents().find('#input_12').on('mousedown', function(){
+        //   console.log("press");
+        //   const text = $(iframe > '#editor_ui_iframe').contents();
+        //   console.log(text);
+        //   // var html = $('iframe').contents().find('#customFieldFrame_41').contents().find('body').prop('outerHTML');
+        //   var html = $('iframe').contents().find('iframe').contents().find('#editor_ui_iframe').contents().find('body').prop('outerHTML');
+        //   console.log(html);
+        //   var markdown = convert(html);
+
+        //   $(mkdown).val(markdown);
+        //   console.log('mouse down before submit; txt: ' + markdown);
+        // })
     });
+});
   });
 })();

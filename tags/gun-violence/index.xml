@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>gun violence on List of Physical Visualizations</title>
+		<link>http://dataphys.org/list/tags/gun-violence/</link>
+		<description>Recent content in gun violence </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/gun-violence)</managingEditor>
+    	
+		<atom:link href="/tags/gun-violence/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

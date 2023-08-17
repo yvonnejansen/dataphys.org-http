@@ -28,8 +28,8 @@
 />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Submit a physical visualization!"/>
-<meta name="twitter:description" content="Unfortunately, we currently do not accept any new submissions. We will need to do some work on the site and we already have a considerable backlog of unpublished posts. Thank you for your understanding. If you follow us on Twitter, then you will be notified when we open the site for new submissions.
-What are appropriate submissions? Although we try to be as inclusive as possible, by physical visualization we mean a data-driven physical artefact."/>
+<meta name="twitter:description" content="After a long hiatus due to technical issues, we&rsquo;re back to accepting new submissions. For those who sent us content before, please note that the process has changed. The form looks again like it did in the early days of the site with one very important change:
+After entering all data, a zip file is generated and downloaded on your computer. You then need to send this file to info@dataphys.org and we will add your entry to the list."/>
 
 
 
@@ -57,38 +57,299 @@ What are appropriate submissions? Although we try to be as inclusive as possible
     
     <main aria-role="main">
 
-      <article class="entry-main">
-      <h1> – Submit a physical visualization!</h1>
-      <div class="post">
-      <p style="color:red; font-weight: 700; font-size: 20px;">Unfortunately, we currently do not accept any new submissions. We will need to do some work on the site and we already have a considerable backlog of unpublished posts. Thank you for your understanding. If you <a href="https://twitter.com/dataphys">follow us on Twitter</a>, then you will be notified when we open the site for new submissions.</p>
-<p><strong>What are appropriate submissions?</strong> Although we try to be as inclusive as possible, by physical visualization we mean a data-driven physical artefact. So it has to be both <strong>physical</strong> (i.e., not exclusively rely on flat media like paper+ink or computer displays) and <strong>data-driven</strong> (like common data visualizations &ndash; see discussion <a href="https://eagereyes.org/criticism/definition-of-visualization">here</a>). We also include <strong>related artefacts</strong> that can help understand physical visualizations or can help create novel ones. We are especially seeking old/historical artefacts, as well as <a href="https://eagereyes.org/criticism/definition-of-visualization">pragmatic</a> artefacts, since these are much less common and relatively hard to find.</p>
+      <h2>Submit a physical visualization!</h2>
+      <div>
+      <p>After a long hiatus due to technical issues, we&rsquo;re back to accepting new submissions. For those who sent us content before, please note that the process has changed. The form looks again like it did in the early days of the site with one very important change:</p>
+<p style="border: solid orange 1mm; padding: 2mm;"><strong>After entering all data, a zip file is generated and downloaded on your computer. You then need to send this file to info@dataphys.org</strong> and we will add your entry to the list. If you do not do this last step, then we will never know that you intended to submit an entry.</p>
+<p>If you sent something in the past and it hasn&rsquo;t been added to the site yet, don&rsquo;t hesitate to send it again using the new process. Thanks!</p>
+<hr>
+<p><strong>What are appropriate submissions?</strong> Although we try to be as inclusive as possible, by physical visualization we mean a data-driven physical artefact. So it has to be both <strong>physical</strong> (i.e., not exclusively rely on flat media like paper+ink or computer displays) and be <strong>data-driven</strong> (like common data visualizations &ndash; see the discussion <a href="https://eagereyes.org/criticism/definition-of-visualization">here</a>). We also include <strong>related artefacts</strong> that can help understand physical visualizations or can help create novel ones. We are especially seeking old/historical artefacts, as well as <a href="https://eagereyes.org/criticism/definition-of-visualization">pragmatic</a> artefacts, since these are much less common and relatively hard to find.</p>
 <!-- Don't hesitate to use the <a href="http://dataphys.org/list/feedback/">general comment page</a> in you have concerns or questions.</p> -->
 <p>Please follow our instructions below for optimal formatting. Your submission will be processed more rapidly if you do. Thank you very much for your contribution!</p>
-<!-- <script type="text/javascript" src="https://form.jotform.com/jsform/212776597691372"></script> -->
-<!-- <div style="display: flex; align-items: center; justify-content: center;">
-<button style="font-size: 120%; padding: 20px 0px; width: 300px; border-radius: 14px; border-width: 1px" onclick="openPopup();">
-      Click here to open a form to submit a physical visualization!
-    </button>
-</div> -->
-<script  type="text/javascript">
-	// function openPopup() {
+<div class="submit_form">
+<form id="new_post" name="new_post" class="submit_form" action="return generatePost();">
+      <!-- post name -->
+      <fieldset name="name">
+            <label for="title">* Title:&nbsp</label>
+            <label class="hint">A good title is short and informative. Complement artwork and system names with a very short description if necessary.</label><br/>
+            <input tabindex="1" class="title_field" type="text" id="title" value="" cols="50" size="30" name="title" autofocus/>
+      </fieldset>
+      <!-- year -->
+      <fieldset class="year_of_creation">
+            <label for="year_of_creation">* Year of creation:&nbsp</label>
+            <label class="hint">Year will be displayed right before the title. Please use the <a href="http://www.archive.org" target="_blank">wayback machine</a> or Google search by date if you are unsure. Use a minus sign for BC.</label><br/>
+            <input tabindex="2" type="number" class="title_field" value="" id="year_of_creation" size="4" name="year_of_creation"/>
+      </fieldset>
+      <fieldset id="images-1">
+            <label for="image-input-1">* Image upload</label>
+            <label class="hint">Please upload at least one image clearly showing the artifact. The first image will be used as the thumbnail in the list and gallery views.</label><br/>
+            <input type="file" accept="image/*" id="image-input-1" onchange="readSingleFile(event, 'image-input-1')">
+            <img id="image-content-1"></img>
+      </fieldset>
+      <!-- post Content -->
+      <fieldset class="content" style="width: 100%">
+            <label for="description">* Description:</label><br/>
+            <textarea name="description" id="editor">
+</textarea>
+      </fieldset>
+      <!-- sources -->
+      <fieldset class="sources" style="clear:left">
+            <label for="cat">* Have you properly acknowledged your sources?</label>
+            <label class="hint">Make sure you provide a list of links above to tell your readers where the information and all images come from.</label><br/>
+            <input tabindex="6" type="checkbox" name="sources" id="sources" value="sources"/> Yes
+      </fieldset>
+      <!-- post Category -->
+      <fieldset class="category">
+            <label for="cat">Category:</label>
+            <label class="hint">Categories will be explained soon. If you're unsure, just leave 'Uncertain / Disputed', and we will fix it.</label><br/>
+            <select id="category">
+                  <option value="Passive physical visualization">Passive physical visualization</option>
+                  <option value="Active physical visualization">Active physical visualization</option>
+                  <option value="Physical model">Physical model</option>
+                  <option value="Measuring instrument">Measuring instrument</option>                                    
+                  <option value="Interactive installation">Interactive installation</option>
+                  <option value="Enabling technology">Enabling technology</option>
+                  <option value="Other">Other</option>
+                  <option value="Uncertain" selected>Uncertain</option>
+            </select>
+      </fieldset>
+      <!-- post tags -->
+      <fieldset class="tags">
+            <label for="post_tags">Tags:</label>
+            <label class="hint">(Optional) comma-separated.</label><br/>
+            <input tabindex="8" type="text" value="" name="post_tags" id="post_tags" size="30"/>
+      </fieldset>
+      <!-- added by -->
+      <fieldset class="added_by">
+            <label for="added_by">* Added by:</label>
+            <label class="hint">Write down your name to be credited with this submission. Full name preferred.</label><br/>
+            <input tabindex="10" type="text" value="" id="added_by" name="added_by" size="20" />
+      </fieldset>
+      <!-- sent by -->
+      <fieldset class="sent_by">
+            <label for="sent_by">Sent by:</label>
+            <label class="hint">(Optional) who sent you this information? Full name preferred.</label><br/>
+            <input tabindex="10" type="text" value="" id="sent_by" name="sent_by" size="20" />
+      </fieldset>
+      <!-- message to the curators -->
+      <fieldset class="message">
+            <label for="message">Private message to the curators:</label>
+            <label class="hint">(Optional) Send us any information that can help us process your submission. It will not show up in the post.</label><br/>
+            <textarea name="message" id="message" value="" cols="60" rows="5"></textarea>
+      </fieldset>
+      <fieldset class="hidden" style="hidden: true">
+            <label>Do not fill this<input type="text" name="miel-label" id="miel-label"><input type="text" name="miel" onchange="document.getElementById('year_of_creation').value = '';"></label>
+      </fieldset>
+      <fieldset class="submit">
+            <label class="hint">Click the download button once done. You won't be able to edit your post after this.</label><br/>
+            <input tabindex="14" class="submit_button" type="button" value="Generate post and download post" tabindex="40" id="submit" name="submit" onclick="return generatePost();" /> <br/>
+            <a id="dl_link" download="filename" target="_blank" href=""></a>
+      </fieldset>
+</form>
+You can <a href="mailto:info@dataphys.org?subject=New submission to dataphys.org/list">click here to generate a pre-filled email</a>, but you need to attach the generated file yourself!
+</div>
+<!-- include the library fflate to generate a zip file with all content and the right directory structure -->
+<script src="https://cdn.jsdelivr.net/npm/fflate/umd/index.js"></script>
+<script type="text/javascript">
+const files = [];
+      const slugify = str =>
+        str
+          .toLowerCase()
+          .trim()
+          .replace(/[^\w\s-]/g, '')
+          .replace(/[\s_-]+/g, '-')
+          .replace(/^-+|-+$/g, '');
 
- //        window.open(
- //          'https://form.jotform.com/212776597691372',
- //          'blank',
- //          scrollbars=1,
- //          toolbar=0,
- //          width=500,
- //          height=500);
-	// }
+function separateString(str) {
+      var split = "";
+      if (str != null){
+            var str_split = str.split(",");
+            for (var i = 0; i < str_split.length; i++){
+                  split += "- " + str_split[i].trim() + "\n";
+            }
+      }
+      else {
+            split = "- ";
+      }
+      return split;
+}
+
+function readSingleFile(e, id) {
+  var file = e.target.files[0];
+  if (!file) {
+    return;
+  }
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var contents = e.target.result;
+    files.push(file);
+    // Display file content
+    displayContents(contents, id);
+  };
+  reader.readAsDataURL(file);
+  console.log("Files: " + files.length);
+}
+
+function htmlToElements(html) {
+    var template = document.createElement('template');
+    template.innerHTML = html;
+    return template.content;//.childNodes;
+}
+ 
+function displayContents(contents, id) {
+  var cur_id = id.charAt(id.length-1);
+  var element = document.getElementById('image-content-' + cur_id);
+  element.src = contents;
+
+  // create a new fieldset to upload another image
+  var new_id = parseInt(cur_id)+1;
+  var fieldset = document.getElementById('images-' + cur_id);
+  var new_fieldset = htmlToElements(`<fieldset id="images-` + new_id + `">
+            <label for="image-input-` + new_id + `">Image upload</label>
+            <label class="hint">Additional image to include</label><br/>
+            <input type="file" accept="image/*" id="image-input-` + new_id + `" onchange="readSingleFile(event, 'image-input-` + new_id + `')">
+            <img id="image-content-` + new_id + `"></img>
+      </fieldset>`);
+  console.log(new_fieldset);
+  fieldset.after(new_fieldset)    ;
+       
+}
+
+function generateFigureString(){
+      const m = new Date();
+      var figs = "";
+      if (files.length >0){
+            // var folders = `/images/uploads/` + m.getUTCFullYear() + "/" + ("0" + (m.getUTCMonth()+1)).slice(-2) + "/";
+            for (var i = 0; i < files.length; i++){
+                  figs += `[![](images/` + files[i].name + `)](images/` + files[i].name + `) `;
+            }
+      }
+
+
+
+      return figs;
+
+
+}
+ 
+// document.getElementById('file-input').addEventListener('change', readSingleFile, false);
+
+function generatePost(){
+      console.log("submit");
+      const m = new Date();
+      const dateString =
+          m.getUTCFullYear() + "/" +
+          ("0" + (m.getUTCMonth()+1)).slice(-2) + "/" +
+          ("0" + m.getUTCDate()).slice(-2) + " " +
+          ("0" + m.getUTCHours()).slice(-2) + ":" +
+          ("0" + m.getUTCMinutes()).slice(-2) + ":" +
+          ("0" + m.getUTCSeconds()).slice(-2);
+      const tags = separateString(document.getElementById('post_tags').value);
+      const added_by = separateString(document.getElementById('added_by').value);
+      var sent_by = document.getElementById('sent_by').value;
+      sent_by = (sent_by == null) ? ` ` : `sent_by:
+      ` + separateString(sent_by) + `
+      `;
+      const thumbnail = "" + files.length > 0 ? `images/`+ files[0].name : " ";
+      
+      const year_of_creation = document.getElementById('year_of_creation').value;
+      var year_of_creation_str = year_of_creation;
+      if (year_of_creation < 0) year_of_creation_str = Math.abs(year_of_creation) + " BC";
+      var post =  `---
+title: ` + document.getElementById('title').value + `
+date:  ` + dateString + `
+slug:  ` + slugify(document.getElementById('title').value) + `
+thumbnail: `+ thumbnail + `
+categories:
+- ` + document.getElementById('category').value + `
+tags:
+` + tags + `
+year_of_creation: ` + year_of_creation + `
+year_of_creation_str: ` + year_of_creation_str + `
+added_by:
+` + added_by + `
+` + sent_by + `
+---
+` + generateFigureString() + `  
+ ` + simplemde.value() + `
+
+`;
+console.log(post);
+
+generateZip(post);
+
+}
+
+// TODO: add code to generate image tags for the remaining files uploaded
+
+function generateZip(post) {
+    const now = new Date();
+
+    const zip = new JSZip();
+
+
+    const post_file_name = slugify(document.getElementById('title').value);
+    const thisYear = now.getFullYear();
+    const thisMonth = ('0' + (now.getMonth() + 1)).slice(-2);
+    console.log("This month is " + thisMonth);
+    const folder = 'content/entries/' + post_file_name + '/';
+    
+    zip.file(folder + 'index.md', post);
+    const fl_img = zip.folder(folder + "images");
+    // const fl_upl = fl_img.folder("uploads");
+    // const fl_year = fl_upl.folder("" + thisYear);
+    // const fl_month = fl_year.folder("" + thisMonth);
+    for (var i = 0; i < files.length; i++){
+      fl_img.file(files[i].name, files[i]);
+    }
+    zip.generateAsync({type:"blob"})
+      .then(function(content) {
+          // see FileSaver.js
+          saveAs(content, "post.zip");
+          alert(
+`Your browser should have downloaded the resulting post in the form of a zip file.
+
+Please send this file to info@dataphys.org so that we can add it to the site.
+
+            Thank you!`)
+      });
+
+
+}
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script type="text/javascript">
+var simplemde = new SimpleMDE({autosave: {
+            enabled: true, uniqueId: "submit"},
+            toolbar: ["bold", "italic", "quote", "|", "unordered-list", "ordered-list", "|", "link", "image", "|", "preview"]
+      });
+      simplemde.value(
+`**Note**: The images you added above will be included automatically in the post in the order in which you added them.
+
+Write a description here. 
+
+> Use this quote formatting tool if you copy and paste text from elsewhere. 
+
+For artwork, we prefer if you describe them using your own simple words.
+
+Please acknowledge a source for the entry you're submitting like this:
+Source: author and title with [hyperlink](http://).
+
+For more than one source, use the following template:
+
+Sources:
+* First source
+* Second source
+
+(You can use the eye icon above to preview how the description will look like.)`);
+
 </script>
 
       
       
-      
-    </div>
-    </article>
-</main>
+      </div>
+    </main>
 
 
     <footer>
@@ -121,7 +382,8 @@ What are appropriate submissions? Although we try to be as inclusive as possible
 </div>
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
   
-    <script src="../js/clipboard2markdown.js"></script>
+    <script src="../js/jszip.min.js"></script>
+    <script src="../js/FileSaver.js"></script>
   
 
 <script src="http://dataphys.org/list/js/footer.js"></script>

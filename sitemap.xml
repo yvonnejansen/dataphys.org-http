@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dataphys.org/list/</loc>
+    <lastmod>2023-08-17T12:05:03+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/pages/</loc>
+    <lastmod>2023-08-17T12:05:03+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/submit/</loc>
+    <lastmod>2023-08-17T12:05:03+00:00</lastmod>
+  </url><url>
     <loc>http://dataphys.org/list/categories/active-physical-visualization/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +36,6 @@
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/added_by/kim-sauv%C3%A9/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/loop/</loc>
@@ -170,19 +176,10 @@
     <loc>http://dataphys.org/list/latest/</loc>
     <lastmod>2021-04-15T19:25:03+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/pages/</loc>
-    <lastmod>2021-04-15T19:25:03+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/contributors/</loc>
     <lastmod>2021-04-15T19:25:03+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/loren-madsen-interview/</loc>
-    <lastmod>2021-04-11T19:25:03+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/pages/contribute-old/</loc>
-    <lastmod>2021-04-11T19:25:03+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/submit/</loc>
     <lastmod>2021-04-11T19:25:03+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/art/</loc>
@@ -569,7 +566,7 @@
     <loc>http://dataphys.org/list/sleep-blanket/</loc>
     <lastmod>2019-08-07T15:15:14+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/sent_by/steffen-s1effen/</loc>
+    <loc>http://dataphys.org/list/sent_by/steffen-@s1effen/</loc>
     <lastmod>2019-08-07T15:15:14+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/cancer/</loc>
@@ -3433,5 +3430,17 @@
   </url><url>
     <loc>http://dataphys.org/list/bertins-reorderable-matrices/</loc>
     <lastmod>2012-02-28T11:54:06+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/bronze/</loc>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/carbon-impact/</loc>
+  </url><url>
+    <loc>http://dataphys.org/list/edo/</loc>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/gun-violence/</loc>
+  </url><url>
+    <loc>http://dataphys.org/list/added_by/matthew-mosher/</loc>
+  </url><url>
+    <loc>http://dataphys.org/list/ownership-occlusions-night-terrors-and-pernicious-doubt/</loc>
   </url>
 </urlset>
