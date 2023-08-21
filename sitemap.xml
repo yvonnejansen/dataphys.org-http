@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dataphys.org/list/added_by/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/carbon-impact/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/categories/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/edo/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/entries/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
     <loc>http://dataphys.org/list/</loc>
-    <lastmod>2023-08-17T12:05:03+00:00</lastmod>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/participatory/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/categories/passive-physical-visualization/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/tags/wood/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/added_by/yvonne-jansen/</loc>
+    <lastmod>2023-08-17T14:09:01+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/pages/</loc>
     <lastmod>2023-08-17T12:05:03+00:00</lastmod>
@@ -11,10 +41,19 @@
     <loc>http://dataphys.org/list/submit/</loc>
     <lastmod>2023-08-17T12:05:03+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/categories/active-physical-visualization/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
+    <loc>http://dataphys.org/list/tags/bronze/</loc>
+    <lastmod>2023-03-06T20:36:30+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/added_by/</loc>
+    <loc>http://dataphys.org/list/tags/gun-violence/</loc>
+    <lastmod>2023-03-06T20:36:30+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/added_by/matthew-mosher/</loc>
+    <lastmod>2023-03-06T20:36:30+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/ownership-occlusions-night-terrors-and-pernicious-doubt/</loc>
+    <lastmod>2023-03-06T20:36:30+00:00</lastmod>
+  </url><url>
+    <loc>http://dataphys.org/list/categories/active-physical-visualization/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/ambient-visualization/</loc>
@@ -23,13 +62,7 @@
     <loc>http://dataphys.org/list/tags/badge/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/categories/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/data-badges/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/entries/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/added_by/georgia-panagiotidou/</loc>
@@ -41,9 +74,6 @@
     <loc>http://dataphys.org/list/loop/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/categories/passive-physical-visualization/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/tags/self-tracking/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
@@ -51,9 +81,6 @@
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/situated/</loc>
-    <lastmod>2021-11-07T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/</loc>
     <lastmod>2021-11-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/haptic-auditory/</loc>
@@ -90,9 +117,6 @@
     <lastmod>2021-09-28T12:37:25+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/state-of-the-world/</loc>
-    <lastmod>2021-09-28T12:37:25+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/added_by/yvonne-jansen/</loc>
     <lastmod>2021-09-28T12:37:25+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/grace-hopper-nanoseconds/</loc>
@@ -308,9 +332,6 @@
     <loc>http://dataphys.org/list/added_by/nicolas-stark/</loc>
     <lastmod>2020-10-29T19:27:45+00:00</lastmod>
   </url><url>
-    <loc>http://dataphys.org/list/tags/wood/</loc>
-    <lastmod>2020-10-29T19:27:45+00:00</lastmod>
-  </url><url>
     <loc>http://dataphys.org/list/happiness-x-gdp-data-jewellery-of-country-happiness/</loc>
     <lastmod>2020-10-13T17:28:50+00:00</lastmod>
   </url><url>
@@ -453,9 +474,6 @@
     <lastmod>2020-05-19T11:14:30+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/100-city/</loc>
-    <lastmod>2020-05-18T19:25:03+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/participatory/</loc>
     <lastmod>2020-05-18T19:25:03+00:00</lastmod>
   </url><url>
     <loc>http://dataphys.org/list/tags/air-quality/</loc>
@@ -3430,17 +3448,5 @@
   </url><url>
     <loc>http://dataphys.org/list/bertins-reorderable-matrices/</loc>
     <lastmod>2012-02-28T11:54:06+00:00</lastmod>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/bronze/</loc>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/carbon-impact/</loc>
-  </url><url>
-    <loc>http://dataphys.org/list/edo/</loc>
-  </url><url>
-    <loc>http://dataphys.org/list/tags/gun-violence/</loc>
-  </url><url>
-    <loc>http://dataphys.org/list/added_by/matthew-mosher/</loc>
-  </url><url>
-    <loc>http://dataphys.org/list/ownership-occlusions-night-terrors-and-pernicious-doubt/</loc>
   </url>
 </urlset>
